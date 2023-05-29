@@ -1,1 +1,3 @@
-# firefox-theme
+# Firefox-Theme
+
+Minimal look for firefox.
