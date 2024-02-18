@@ -9,4 +9,4 @@ You know what to do. Enable the stylesheet thing in firefox and copy and paste t
 
 ## To change the background
 
-Replace the image in the img directory with what you want.
+Replace the image in the img directory with what you want. Keep the name same otherwise it won't work.
